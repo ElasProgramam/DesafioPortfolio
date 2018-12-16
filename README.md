@@ -1,7 +1,7 @@
 # Desafio Portfolio 
 Desafio colaborativo com objetivo de criarmos portólios e sites pessoais #VamosJuntas
 
-![imagem](https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/24294157_10204201929364073_4693628206557678982_n.jpg?_nc_cat=111&_nc_ht=scontent-gru2-1.xx&oh=0401496bd68b80bc07b705a5d20c03fd&oe=5C75492C) 
+![imagem](https://imgur.com/ZB3jfOH.png) 
 
 ## Descrição :page_with_curl:
 
